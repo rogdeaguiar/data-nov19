@@ -7,8 +7,7 @@
 An important ability of a data scientist/data engineer is to know where and how to find information that helps you to accomplish your work. In the exercise, you will both practice the Numpy features we discussed in the lesson and learn new features by looking up documentations and references. You will work on your own but remember the teaching staff is at your service whenever you encounter problems.
 
 ## Getting Started
-
-Open the `main.ipynb` file in the `your-code` directory with Jupyter Notebook. There are a bunch of comments which instruct what you are supposed to do step by step. Follow the order of the instructions from top to bottom. Read each instruction carefully and provide your answer beneath it. You should also test your answers to make sure your responses are correct. If one of your responses is incorrect, you may not be able to proceed because later responses may depend upon previous responses.
+In the jupyter notebook file there are a bunch of comments which instruct what you are supposed to do step by step. Follow the order of the instructions from top to bottom. Read each instruction carefully and provide your answer beneath it. You should also test your answers to make sure your responses are correct. If one of your responses is incorrect, you may not be able to proceed because later responses may depend upon previous responses.
 
 Continue answering each question until you reach the end of `main.ipynb`.
 
