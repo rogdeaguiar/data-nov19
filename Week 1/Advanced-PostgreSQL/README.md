@@ -43,6 +43,7 @@ Write a *SELECT* query to obtain the following output:
       ```
       advance = titles.advance * titleauthor.royaltyper / 100
       ```
+   * You may notice an error message after trying to do the operation. That's because both columns contains INT type variables. That way, they should be forced into FLOAT type. To do that, just add `::FLOAT` after each column in the formula.
 * Royalty of each sale
     * The formula is:
         ```
