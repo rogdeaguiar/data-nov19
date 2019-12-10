@@ -20,7 +20,7 @@ When you are on `main.ipynb`, read the instructions for each cell and provide yo
 
 Do you remember your Postgre project? In this lab, you will examine some SQL tables from [here](https://relational.fit.cvut.cz/dataset/Stats). This database contains an anonymized dump of all user-contributed content on the Stats Stack Exchange network.
 
-You will need to import the `psycopg2` library and the `create_engine` function from the `sqlalchemy` library.
+You will need to import the `pymysql` library and the `create_engine` function from the `sqlalchemy` library.
 
 ```python
 import pymysql
@@ -29,7 +29,7 @@ from sqlalchemy import create_engine
 
 Once your connection is established with the database you will use some basic SELECT queries to retrieve the data in order to answer the questions described next.
 
-:bulb: If you receive import errors for `psycopg2` or `sqlalchemy`, it means you need to install them with `pip`.
+:bulb: If you receive import errors for `pymysql` or `sqlalchemy`, it means you need to install them with `pip`.
 
 ### Challenge Questions
 
